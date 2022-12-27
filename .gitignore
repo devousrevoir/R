@@ -1,0 +1,10 @@
+.Rdata
+.Rhistory
+.Rproj.user/
+image/
+purchase/
+req/
+유통데이터 분류/
+*.zip
+*.csv
+그 외/
